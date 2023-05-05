@@ -11,7 +11,7 @@ let mainConfig = {
   },
 
   repoConfig: {
-    owner: "Yidadaa",
+    owner: "mrfirst",
     repo: "Issue-Blog-With-Github-Action",
     pushBranch: "master",
     email: "yidadaa@qq.com",
